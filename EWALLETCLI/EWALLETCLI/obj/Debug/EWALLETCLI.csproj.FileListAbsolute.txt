@@ -1,0 +1,7 @@
+C:\Users\Charlene\OneDrive\Documents\3RD YEAR - 2ND SEM\7 - ITELECT3 InTech\EWALLETCLI\EWALLETCLI\bin\Debug\EWALLETCLI.exe.config
+C:\Users\Charlene\OneDrive\Documents\3RD YEAR - 2ND SEM\7 - ITELECT3 InTech\EWALLETCLI\EWALLETCLI\bin\Debug\EWALLETCLI.exe
+C:\Users\Charlene\OneDrive\Documents\3RD YEAR - 2ND SEM\7 - ITELECT3 InTech\EWALLETCLI\EWALLETCLI\bin\Debug\EWALLETCLI.pdb
+C:\Users\Charlene\OneDrive\Documents\3RD YEAR - 2ND SEM\7 - ITELECT3 InTech\EWALLETCLI\EWALLETCLI\obj\Debug\EWALLETCLI.csproj.AssemblyReference.cache
+C:\Users\Charlene\OneDrive\Documents\3RD YEAR - 2ND SEM\7 - ITELECT3 InTech\EWALLETCLI\EWALLETCLI\obj\Debug\EWALLETCLI.csproj.CoreCompileInputs.cache
+C:\Users\Charlene\OneDrive\Documents\3RD YEAR - 2ND SEM\7 - ITELECT3 InTech\EWALLETCLI\EWALLETCLI\obj\Debug\EWALLETCLI.exe
+C:\Users\Charlene\OneDrive\Documents\3RD YEAR - 2ND SEM\7 - ITELECT3 InTech\EWALLETCLI\EWALLETCLI\obj\Debug\EWALLETCLI.pdb
